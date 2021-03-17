@@ -2,6 +2,7 @@
   "name": "your-library-name",
   "version": "0.1.0",
   "private": false,
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib"
   },
